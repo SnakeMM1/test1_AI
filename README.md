@@ -2,9 +2,11 @@
 
 Python project that generates random coloured pyramids in the terminal.
 
-## Run
+## Setup (independent environment)
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 python3 color_pyramids.py
 ```
 
